@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to address the critical business problem of customer churn in the banking sector. We have developed a predictive model to identify potential churners and mitigate customer attrition. While this model is initially designed for a bank, it can be adapted to other sectors such as food delivery services like Swiggy and Zomato.
+This project aims to address the critical business problem of customer churn in the Indian banking sector. We have developed a predictive model to identify potential churners and mitigate customer attrition. While this model is initially designed for a bank, it can be adapted to other sectors such as food delivery services like Swiggy and Zomato.
 
 ## Table of Contents
 
