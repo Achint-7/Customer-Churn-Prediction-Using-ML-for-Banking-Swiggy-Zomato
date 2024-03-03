@@ -49,7 +49,7 @@ Based on the model's output, various business interventions are implemented, inc
 ## Repository Structure
 
 The repository includes a README file, documentation folder with detailed files for code, EDA, and model development, a data folder with sample datasets, and a results folder with relevant result files.
----
+
 ## Adaptability
 
 **While the model is initially designed for a bank, it can be adapted to other sectors such as food delivery services like Swiggy and Zomato. By identifying potential churners, these companies can take proactive measures such as sending personalized emails/SMS or offering discount codes or vouchers to retain their customers.**
